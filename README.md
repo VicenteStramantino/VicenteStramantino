@@ -1,4 +1,11 @@
-<h2 align="left">Hi 👋! My name is Vicente and I'm a ..., from ....</h2>
+<h1 align="left">Hi 👋! My name is Vicente and I'm 18 and based in São Paulo.</h1>
+
+<div align="center">
+  <h3>Software engineering student focused on API and mobile application development. I primarily work with Python (FastAPI), Android development in Kotlin, and Oracle</h3>
+</div>
+
+<br/>
+<br/>
  
 ###
  
@@ -40,7 +47,7 @@
 ###
  
 <br clear="both">
- <div align="left">
+ <div align="center">
   <a href="https://br.linkedin.com/in/vicente-stramantino" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -48,7 +55,7 @@
  
 ###
  
-## My Contribution Graph
+## My Contribution Graph ⭐
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VicenteStramantino/VicenteStramantino/output/pacman-contribution-graph-dark.svg">
