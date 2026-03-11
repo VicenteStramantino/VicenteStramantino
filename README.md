@@ -54,6 +54,7 @@
 <img width="15" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="70" alt="selenium logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="70" alt="Spring Boot logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="70" alt="Firebase logo"  />
 </div>
  
 ###
