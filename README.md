@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋! My name is Vicente and I'm 18 and based in São Paulo.</h1>
 
 <div align="center">
-  <h3>Software engineering student focused on API and mobile application development. I primarily work with Python (FastAPI), Android development in Kotlin, and Oracle</h3>
+  <h3>Software engineering student focused on API and mobile application development. I primarily work with Python (FastAPI), Android development in Kotlin, and Oracle.</h3>
 </div>
 
 <br/>
@@ -42,6 +42,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70" alt="mysql logo"  />
 <img width="15" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70" alt="vscode logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" alt="react logo"  />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="70" alt="android logo"  />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70" alt="github logo"  />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="70" alt="tailwindcss logo"  />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="70" alt="sqlite logo"  />
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="70" alt="selenium logo"  />
 </div>
  
 ###
